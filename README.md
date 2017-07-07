@@ -4,4 +4,5 @@ This is a centralized repository for the various projects and activities of the 
 
 **Workings groups**
 
+- [Book club](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/book-club)
 - [Haskell study group](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/haskell-study-group)
