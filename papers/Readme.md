@@ -23,6 +23,11 @@ Philip Wadler
 1992  
 [http://homepages.inf.ed.ac.uk/wadler/topics/monads.html](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
 
+##### Composing Monads
+Mark P. Jones and Luc Duponcheel  
+1993  
+[http://web.cecs.pdx.edu/~mpj/pubs/composing.html](http://web.cecs.pdx.edu/~mpj/pubs/composing.html)
+
 ##### Imperative functional programming  
 Simon Peyton Jones and Philip Wadler  
 1993  
@@ -37,6 +42,11 @@ Philip Wadler
 Philip Wadler  
 1995  
 [http://homepages.inf.ed.ac.uk/wadler/topics/monads.html](http://homepages.inf.ed.ac.uk/wadler/topics/monads.html)
+
+##### Monadic Parser Combinators
+Graham Hutton and Erik Meijer  
+1996  
+[https://www.researchgate.net/publication/2951385_Monadic_Parser_Combinators](https://www.researchgate.net/publication/2951385_Monadic_Parser_Combinators)
 
 ##### Tackling the awkward squad: monadic input/output, concurrency, exceptions, and foreign-language calls in Haskell  
 Simon Peyton Jones  
