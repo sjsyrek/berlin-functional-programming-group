@@ -71,7 +71,7 @@ For details of specific meetings, see the Meetup page.
 
 ### Links
 
-The following are useful websites, educational supplements, and other reference materials useful when learning functional programming and working with Haskell. Submit a pull request to add more.
+The following are useful websites, educational supplements, and other reference materials pertinent to learning functional programming and working with Haskell. Submit a pull request to add more.
 
 - [Programming with Nothing — Tom Stuart](https://www.youtube.com/watch?v=VUhlNx_-wYk)
 - [Y Not: Adventures in Functional Programming — Jim Weirich](https://www.youtube.com/watch?v=FITJMJjASUs)
