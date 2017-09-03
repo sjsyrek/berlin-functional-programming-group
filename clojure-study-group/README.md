@@ -10,7 +10,7 @@ We assume no previous knowledge of Clojure or FP, but we still need you to at le
 
 ### Why Clojure? 
 
-If you've decided to enter this learning group, you're probably already familiar with the "why" and you can skip directly to the [learning materials](#learning_material). Otherwise please keap reading in order to figure out if the group is the right fit for you. 
+If you've decided to enter this learning group, you're probably already familiar with the "why" and you can skip directly to the [learning materials](#learning_material). Otherwise please keep reading in order to figure out if the group is the right fit for you. 
 
 There are probably several good reasons why Clojure should be the language of choice for your next project, to name a few:
 * __Simplicity:__ Clojure has a very concise Lisp-like syntax that is easy to pick up, but powerful at the same time
