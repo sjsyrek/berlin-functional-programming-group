@@ -22,11 +22,12 @@ There are probably several good reasons why Clojure should be the language of ch
 
 ## Learning material<a name="learning_material"></a>
 
-<!-- THROW-AWAY POINTS -->
+We will use "Clojure for the Brave and True" by Daniel Higginbotham as our primary learning material.
 
-* "Clojure for the brave and true"
+The book is available [online for free](https://www.braveclojure.com/clojure-for-the-brave-and-true/), but we'd really like to encourage you to [buy the printed](https://www.amazon.de/Clojure-Brave-True-Ultimate-Programmer/dp/1593275919/ref=sr_1_1?ie=UTF8&qid=1504465315&sr=8-1&keywords=clojure+for+the+brave+and+true) version and support the author. 
 
-<!-- END OF THROW-AWAY POINTS -->
+
+![Clojure for the Brave and True](img/clojure-for-the-brave-and-true.png) 
 
 ## Plan
 
