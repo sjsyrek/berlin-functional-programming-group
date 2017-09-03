@@ -1,10 +1,12 @@
-# Clojure Study Group
+# Clojure Study Group [Work in progress]
 
 ## Introduction and goals
 
-The Clojure Study Group is a meetup series organized as part of the larger [Berlin Functional Programming Group](https://www.meetup.com/de-DE/Berlin-Functional-Programming-Group/) effort. Although its goal is to introduce the attendees to the Clojure programming language, it is also a good starting point for learning about functional programming principles in general. 
+The Clojure Study Group is a meetup series organized as part of the larger [Berlin Functional Programming Group](https://www.meetup.com/de-DE/Berlin-Functional-Programming-Group/) effort. Although its goal is to introduce the attendees to the Clojure programming language, it is also a good starting point for learning about [functional programming](https://en.wikipedia.org/wiki/Functional_programming) in general. 
 
 Additionally, the group should provide a discussion ground for the topics covered by the learning material.
+
+The group assumes no previous knowledge of Clojure or FP, but we still need you to at least be familiar with the fundamentals of programming (you know what a compiler is, variables/constants, functions, conditional statements, loops etc.).
 
 ### Why Clojure? 
 
