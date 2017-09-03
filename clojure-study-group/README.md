@@ -6,7 +6,7 @@ The Clojure Study Group is a meetup series organized as part of the larger [Berl
 
 Additionally, the group should provide a discussion ground for the topics covered by the learning material.
 
-The group assumes no previous knowledge of Clojure or FP, but we still need you to at least be familiar with the fundamentals of programming (you know what a compiler is, variables/constants, functions, conditional statements, loops etc.).
+We assume no previous knowledge of Clojure or FP, but we still need you to at least be familiar with the fundamentals of programming (you know what a compiler is, variables/constants, functions, conditional statements, loops etc.).
 
 ### Why Clojure? 
 
