@@ -31,14 +31,21 @@ The book is available [online for free](https://www.braveclojure.com/clojure-for
 
 ## Plan
 
-<!-- THROW-AWAY POINTS -->
+We should be able to cover the complete book over the course of 12 weeks. The first session will cover the first two chapters, after which we will cover one chapter per week.  
 
-* Split learning material into chapters
-    * ~ 1 chapter / week?
-* Weekly meetings with discussion and executing examples
-* Q&A 
+What you are expected to do on your own before each session:
+* Read the chapter(s) for the current week
+* Type down, compile and run the code from the book or run it in the REPL. Under "type down" we really mean _type down_ and __not__ copy-paste! Typing will make you think and reason about the code, hopefully leading to a better understanding. 
+* Optional: Note down your questions or discussion topics related to that chapter 
 
-<!-- END OF THROW-AWAY POINTS -->
+What we will do at the sessions: 
+* Take 5 minutes to quickly go over what we learned last week 
+* Redo the exercises from the book, potentially without using it
+* Cover questions and discussion topics
+* If there is time left, we will solve exercises from other sources. However, they should only require what we learned in the sessions up to that point.  
+
+What the sessions aren't for:
+* Covering the weekly material in form of a lecture, as you are expected to cover the theoretical part on your own. We believe that interactivity and two-way communication provide better results than passive attendance, however that necessitates a certain level of preparedness for each session.        
 
 ## Requirements for attending
 
@@ -50,6 +57,10 @@ The book is available [online for free](https://www.braveclojure.com/clojure-for
         * A default editor or IDE won't be enforced, although there is a chance it will be harder for us to assist you with a problem if you go the custom way
 
 <!-- END OF THROW-AWAY POINTS -->
+
+## Location
+
+TBA
 
 ## Useful resources
 
