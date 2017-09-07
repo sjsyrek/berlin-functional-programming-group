@@ -31,5 +31,5 @@ The Book Club working group decides which Computer Science texts to read collect
 Study groups are temporary groups for people to learn programming languages (or any other topic) following a specified curriculum. The following study groups have been proposed: 
 
 - [Haskell study group](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/haskell-study-group)
-- Clojure study group
+- [Clojure study group](https://github.com/sjsyrek/berlin-functional-programming-group/tree/master/clojure-study-group)
 
